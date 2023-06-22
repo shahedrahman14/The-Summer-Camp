@@ -1,0 +1,124 @@
+[
+    {
+      "id": 1,
+      "title": "Basketball Summer Camp",
+      "image": "https://rb.gy/mgk8a",
+      "numberOfStudents": 50,
+      "category": "popular",
+      "instructor": "John Doe",
+      "availableSeats": 10,
+      "price": 100
+    },
+    {
+      "id": 2,
+      "title": "Soccer Summer Camp",
+      "image": "https://rb.gy/3ju2q",
+      "numberOfStudents": 35,
+      "category": "popular",
+      "instructor": "Jane Smith",
+      "availableSeats": 5,
+      "price": 80
+    },
+    {
+      "id": 3,
+      "title": "Tennis Summer Camp",
+      "image": "https://rb.gy/7bb2t",
+      "numberOfStudents": 40,
+      "category": "popular",
+      "instructor": "Mike Johnson",
+      "availableSeats": 15,
+      "price": 90
+    },
+    {
+      "id": 4,
+      "title": "Swimming Summer Camp",
+      "image": "https://rb.gy/fio3s",
+      "numberOfStudents": 55,
+      "category": "popular",
+      "instructor": "Sarah Johnson",
+      "availableSeats": 8,
+      "price": 90
+    },
+    {
+      "id": 5,
+      "title": "Volleyball Summer Camp",
+      "image": "https://rb.gy/5syxm",
+      "numberOfStudents": 30,
+      "category": "popular",
+      "instructor": "Michael Davis",
+      "availableSeats": 13,
+      "price": 90
+    },
+    {
+      "id": 6,
+      "title": "Gymnastics Summer Camp",
+      "image": "https://rb.gy/9ww6a",
+      "numberOfStudents": 20,
+      "category": "good",
+      "instructor": "Emily Wilson",
+      "availableSeats": 18,
+      "price": 70
+    },
+    {
+      "id": 7,
+      "title": "Cricket Summer Camp",
+      "image": "https://rb.gy/2ffml",
+      "numberOfStudents": 25,
+      "category": "good",
+      "instructor": "David Thompson",
+      "availableSeats": 21,
+      "price": 80
+    },
+    {
+      "id": 8,
+      "title": "Badminton Summer Camp",
+      "image": "https://rb.gy/uvjyx",
+      "numberOfStudents": 15,
+      "category": "unpopular",
+      "instructor": "Jessica Lee",
+      "availableSeats": 15,
+      "price": 90
+    },
+    {
+      "id": 9,
+      "title": "Golf Summer Camp",
+      "image": "https://rb.gy/i4sr0",
+      "numberOfStudents": 12,
+      "category": "unpopular",
+      "instructor": "Andrew Rodriguez",
+      "availableSeats": 18,
+      "price": 100
+    },
+    {
+      "id": 10,
+      "title": "Archery Summer Camp",
+      "image": "https://rb.gy/0pj3p",
+      "numberOfStudents": 18,
+      "category": "unpopular",
+      "instructor": "Sophia Garcia",
+      "availableSeats": 12,
+      "price": 120
+    },
+    {
+      "id": 11,
+      "title": "Karate Summer Camp",
+      "image": "https://rb.gy/i6q8b",
+      "numberOfStudents": 22,
+      "category": "good",
+      "instructor": "Daniel Martinez",
+      "availableSeats": 15,
+      "price": 56
+    },
+    {
+      "id": 12,
+      "title": "Dance Summer Camp",
+      "image": "https://rb.gy/fpzn2",
+      "numberOfStudents": 40,
+
+      "category": "popular",
+      "instructor": "Olivia Brown",
+      "availableSeats": 10,
+      "price": 90
+    }
+  ]
+  

@@ -1,0 +1,92 @@
+[
+      {
+        "id":1,
+        "instructor_name": "John Smith",
+        "instructor_image": "https://rb.gy/rz18u",
+        "email": "john.smith@example.com",
+        "num_classes_taken": 5,
+        "class_names_taken": ["Basketball", "Soccer", "Tennis"],
+        "category": "popular"
+      },
+      {
+        "id":2,
+        "instructor_name": "Sarah Johnson",
+        "instructor_image": "https://rb.gy/q2jrb",
+        "email": "sarah.johnson@example.com",
+        "num_classes_taken": 3,
+        "class_names_taken": ["Swimming", "Volleyball"],
+        "category": "known"
+      },
+      {
+        "id":3,
+        "instructor_name": "Michael Davis",
+        "instructor_image": "https://rb.gy/1yz9j",
+        "email": "michael.davis@example.com",
+        "num_classes_taken": 4,
+        "class_names_taken": ["Baseball", "Football"],
+        "category": "popular"
+      },
+      {
+        "id":4,
+        "instructor_name": "Emily Wilson",
+        "instructor_image": "https://rb.gy/axkt6",
+        "email": "emily.wilson@example.com",
+        "num_classes_taken": 2,
+        "class_names_taken": ["Gymnastics"],
+        "category": "popular"
+      },
+      {
+        "id":5,
+        "instructor_name": "David Thompson",
+        "instructor_image": "https://rb.gy/3r5ld",
+        "email": "david.thompson@example.com",
+        "num_classes_taken": 6,
+        "class_names_taken": ["Archery", "Cycling", "Badminton"],
+        "category": "popular"
+      },
+      {
+        "id":6,
+        "instructor_name": "Jessica Lee",
+        "instructor_image": "https://rb.gy/y7c3e",
+        "email": "jessica.lee@example.com",
+        "num_classes_taken": 1,
+        "class_names_taken": ["Dance"],
+        "category": "popular"
+      },
+      {
+        "id":7,
+        "instructor_name": "Andrew Rodriguez",
+        "instructor_image": "https://rb.gy/kotqn",
+        "email": "andrew.rodriguez@example.com",
+        "num_classes_taken": 4,
+        "class_names_taken": ["Swimming", "Tennis"],
+        "category": "known"
+      },
+      {
+        "id":8,
+        "instructor_name": "Sophia Garcia",
+        "instructor_image": "https://rb.gy/32gbt",
+        "email": "sophia.garcia@example.com",
+        "num_classes_taken": 3,
+        "class_names_taken": ["Soccer"],
+        "category": "unknown"
+      },
+      {
+        "id":9,
+        "instructor_name": "Daniel Martinez",
+        "instructor_image": "https://rb.gy/kzi5u",
+        "email": "daniel.martinez@example.com",
+        "num_classes_taken": 2,
+        "class_names_taken": ["Basketball", "Baseball"],
+        "category": "popular"
+      },
+      {
+        "id":10,
+        "instructor_name": "Olivia Brown",
+        "instructor_image": "https://rb.gy/twplt",
+        "email": "olivia.brown@example.com",
+        "num_classes_taken": 3,
+        "class_names_taken": ["Volleyball"],
+        "category": "unknown"
+      }
+    ]
